@@ -1,20 +1,5 @@
 ![Splash Page](/imgs/Logo.png)
 
-![Splash Page](/imgs/icon.png)
-
-#How to Run
-
-Npm install to install required packages.
-
-Be sure to have iOS simulator installed.
-
-If you have X-code, run CycleTheBay.xcodeproj in ios folder.
-
-Or,
-
-In CLI, run "react-native run-ios" (without quotes)
-
-
 # CycleTheBay
 React Native Cycle App for iOS with an Android version currently in production and plans to release to iOS & google play stores as soon as possible. Our app was developed to meet the needs of a cyclist interested in exploring the San Francisco Bay area, specifically the Bay Trail with its beautiful historical and natural ecological offerings.
 
