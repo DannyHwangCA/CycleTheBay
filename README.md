@@ -1,8 +1,11 @@
 ![Splash Page](/imgs/Logo.png)
 
+
 React Native Cycle App for iOS with an Android version currently in production and plans to release to iOS & google play stores as soon as possible. Our app was developed to meet the needs of a cyclist interested in exploring the San Francisco Bay area, specifically the Bay Trail with its beautiful historical and natural ecological offerings.
 
 This app was engineered utilizing decoupled architecture, we designed and deployed our own Rails API ([source found here](https://github.com/psiclops/cycle-api)) which returns data as json that is fetched and displayed in a responsive and native mobile environment. The front end of the app developed using React Native, a brand new framework released by Facebook for developing native applications for iOS and Android devices based on JavaScript and React.  
+
+[![IMAGE ALT TEXT HERE](/imgs/video-picture.png)](https://youtu.be/OI2wkQTdCrg)
 
 [Watch the Demo!](https://youtu.be/OI2wkQTdCrg)
 
@@ -49,6 +52,21 @@ MIT
 
 ##Landmarks & Local Attractions!
 ![Landmarks List](/imgs/landmarks-list.png)  ![Local Attractions](/imgs/local.png)
+
+
+#How to Run
+
+Npm install to install required packages.
+
+Be sure to have iOS simulator installed.
+
+If you have X-code, run CycleTheBay.xcodeproj in ios folder.
+
+Or,
+
+In CLI, run "react-native run-ios" (without quotes)
+
+![Splash Page](/imgs/icon.png)
 
 
 
